@@ -1,0 +1,11 @@
+= Terraform Resources
+
+== VirtualBox image
+
+
+
+== Links
+
+* link:https://blog.opennix.ru/posts/use-terraform-with-virtualbox/[VirtualBox Tutorial]
+* link:https://aurelie-vache.developpez.com/tutoriels/cloud/terraform-gerer-infrastructure-code/[AWS example 1]
+* link:https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180[AWS example 2]
